@@ -6,8 +6,6 @@ https://github.com/ScandinavianDesignGroup/VippsBrandKit-basic/archive/master.zi
 
 --
 
-Containing:
-
 # vipps_retningslinjer_no.pdf
 Enkle retningslinjer for Vipps.
 
